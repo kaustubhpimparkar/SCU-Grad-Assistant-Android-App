@@ -2,7 +2,7 @@
 Mobile app to to assist new Graduate students of SCU by providing helpful information
 
 As per your Android SDK version, set minSDKVersion and targetSDKVersion in AndroidManifest.xml to make code compatible to run on device:
-uses-sdk
+uses-sdk tag:
         android:minSdkVersion="11"
         android:targetSdkVersion="19" 
         
