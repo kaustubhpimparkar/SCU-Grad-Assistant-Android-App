@@ -1,0 +1,59 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BankingActivity" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="0dp" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:orientation="vertical" >
+            <ImageView
+		        android:id="@+id/BOA_imageView"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:onClick="bankofAmericaDetails"
+		        android:clickable="true"
+		        android:tag="Bank of America"
+		        android:src="@drawable/bank_of_america_logo" />
+            
+            <ImageView
+		        android:id="@+id/chase_imageView"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content" 
+		        
+		        android:clickable="true"
+		        android:onClick="chaseDetails"
+		        android:src="@drawable/chase"
+		        android:tag="Chase" />
+            <ImageView
+       			android:id="@+id/wells_fargo_imageView"
+        		android:layout_width="wrap_content"
+        		android:layout_height="wrap_content"
+        		
+         		android:clickable="true"
+        		android:onClick="wellsFargoDetails"
+         		android:tag="Wells Fargo"
+        		android:src="@drawable/wells" />
+            <ImageView
+        		android:id="@+id/citibank_imageView"
+        		android:layout_width="wrap_content"
+        		android:layout_height="wrap_content"
+        		
+         		android:clickable="true"
+        		android:onClick="citiBankDetails"
+         		android:tag="Citi Bank"
+        		android:src="@drawable/citibank" />
+        </LinearLayout>
+    </ScrollView>
+    
+</RelativeLayout>

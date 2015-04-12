@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<spring>
+		<events>
+			<id>1</id>
+			<date>March 31</date>
+			<day>Monday</day>
+			<description>Classes begin </description>
+		</events>
+		<events>
+			<id>2</id>
+			<date>April 4</date>
+			<day>Friday</day>
+			<description>Last day to add a class</description>
+		</events>
+		<events>
+			<id>3</id>
+			<date>April 18</date>
+			<day>Friday</day>
+			<description>Good Friday (classes do not meet)</description>
+		</events>
+		<events>
+			<id>4</id>
+			<date>April 25</date>
+			<day>Friday</day>
+			<description>Last day to drop a class without receiving a W grade </description>
+		</events>
+		<events>
+			<id>5</id>
+			<date>May 16</date>
+			<day>Friday</day>
+			<description>Last day to drop a class (will receive a W)</description>
+		</events>
+		<events>
+			<id>6</id>
+			<date>May 26</date>
+			<day>Monday</day>
+			<description>Memorial Day (classes do not meet)</description>
+		</events>
+		<events>
+			<id>7</id>
+			<date>June 6</date>
+			<day>Friday</day>
+			<description>Classes end</description>
+		</events>
+		<events>
+			<id>8</id>
+			<date>June 9</date>
+			<day>Monday</day>
+			<description>Spring Quarter final exam period begins</description>
+		</events>
+		<events>
+			<id>9</id>
+			<date>June 12</date>
+			<day>Thursday</day>
+			<description>Spring Quarter final exam period ends</description>
+		</events>
+	</spring>
+	

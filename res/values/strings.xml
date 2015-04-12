@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Grad Assistant</string>
+    <string name="list_view">List View</string>
+    <string name="grid_view">Grid View</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="content">
+        <item>Contact</item>
+        <item>Calendar</item>
+        <item>Transport</item>
+        <item>Weather</item>
+       
+        <item>Housing</item>
+        <item>Banking</item>
+        <item>Cell Phones</item>
+        <item>Map</item>
+    </string-array>
+
+    <string name="title_activity_index_list">IndexListActivity</string>
+    <string name="title_activity_calandar_info">Calandar</string>
+
+    <!-- Calendar Info Activity -->
+    <string name="calendar_date">Date</string>
+    <string name="calendar_day">Day</string>
+    <string name="calendar_description">Description</string>
+    <string name="title_activity_calendar_info">Calendar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_contact_list">Contact</string>
+    <string name="title_activity_contact_detail">Contact</string>
+    <string name="title_activity_weather">Weather</string>
+    <string name="title_activity_banking">Banking</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string-array name="SortBySpinner">
+        <item>Miles from SCU</item>
+    </string-array>
+    <string-array name="SearchBySpinner">
+        <item>City</item>
+        <item>Postal Code</item>
+    </string-array>
+
+    <string name="title_activity_housing_list">Housing</string>
+    <string name="title_activity_housing_tab">Housing</string>
+    <string name="title_activity_on_campus">OnCampus</string>
+    <string name="title_activity_off_campus">OffCampus</string>
+    <string name="title_activity_important_details">ImportantDetails</string>
+    <string name="title_activity_on_campus_housing_list">OnCampusHousingList</string>
+    
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_cell_phone">Cell Phone</string>
+    <string name="title_activity_transport">Transport</string>
+
+</resources>

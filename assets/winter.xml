@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<winter>
+		<events>
+			<id>1</id>
+			<date>January 6</date>
+			<day>Monday</day>
+			<description>Classes begin </description>
+		</events>
+		<events>
+			<id>2</id>
+			<date>January 10</date>
+			<day>Friday</day>
+			<description>Last day to add a class</description>
+		</events>
+		<events>
+			<id>3</id>
+			<date>January 20</date>
+			<day>Thursday</day>
+			<description>Martin Luther King Day (classes do not meet) </description>
+		</events>
+		<events>
+			<id>4</id>
+			<date>January 31</date>
+			<day>Friday</day>
+			<description>Last day to drop a class without receiving a W grade </description>
+		</events>
+		<events>
+			<id>5</id>
+			<date>February 17</date>
+			<day>Monday</day>
+			<description>Presidents' Day (classes do not meet) </description>
+		</events>
+		<events>
+			<id>6</id>
+			<date>February 21</date>
+			<day>Friday</day>
+			<description>Last day to drop a class (will receive a W) </description>
+		</events>
+		<events>
+			<id>7</id>
+			<date>March 14</date>
+			<day>Friday</day>
+			<description>Classes end</description>
+		</events>
+		<events>
+			<id>8</id>
+			<date>March 17</date>
+			<day>Monday</day>
+			<description>Winter Quarter final exam period begins</description>
+		</events>
+		<events>
+			<id>9</id>
+			<date>March 21</date>
+			<day>Friday</day>
+			<description>Winter Quarter final exam period ends</description>
+		</events>
+	</winter>
