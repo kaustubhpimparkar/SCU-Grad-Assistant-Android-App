@@ -4,13 +4,9 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.MalformedURLException;
-
 import org.xmlpull.v1.XmlPullParserException;
-
 import com.code.project.R;
 import com.imageloader.util.ImageLoader;
-
-
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.os.AsyncTask;
@@ -19,7 +15,6 @@ import android.app.Activity;
 import android.content.Context;
 import android.graphics.drawable.Drawable;
 import android.util.Log;
-
 import android.view.Menu;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -158,8 +153,5 @@ public class WeatherActivity extends Activity {
 	            return null;
 	        }
 	    }
-		
-		
-		
 	}
 }

@@ -102,7 +102,7 @@ public class OnCampusHousingListActivity extends Activity {
 			singleFrame.setOnClickListener(new View.OnClickListener() {
 			@Override
 			public void onClick(View v) {
-			showLargeImage(singleFrame.getId());
+				showLargeImage(singleFrame.getId());
 			}
 			});
 		}
